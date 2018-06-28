@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 # chat-api
+
+
+Rails 5 comes up with Action Cable and it is a wonderful feature as usually to do a real time feature, we would need to rely on NodeJS to have implement a websocket. By combining with React JS on front end, we can easily build a chat application with Rails backend API and React JS front end to render the chat messages.
